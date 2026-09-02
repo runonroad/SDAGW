@@ -1,2 +1,1 @@
-# SDAGW
-SDAGW: A Spatial-Prior Depthwise Attention with Gated Wavelet Network for Efficient Medical Slice Reconstruction
+The code will be made publicly available immediately after the paper is published.
